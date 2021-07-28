@@ -11,7 +11,7 @@ Programming for Data Science Nanodegree Program - Projects
 
 [Udacity Online Nanodegree Link](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
 
-![certificate](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![certificate](https://github.com/Abdelrhman-Yassein/Programming-for-Data-Science-with-Python/blob/main/certificate.PNG)
 
 
 ## Author
